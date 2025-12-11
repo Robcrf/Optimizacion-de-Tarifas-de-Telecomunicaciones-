@@ -1,8 +1,3 @@
-Aquí tienes tu **README mejorado, en inglés, con íconos**, diseño más visual y formato ideal para GitHub.
-*(Los íconos usados son compatibles con Markdown mediante emojis, para asegurar que se vean correctamente en GitHub.)*
-
----
-
 # 📡 Megaline Telecom: Customer Behavior and Revenue Analysis
 
 ## 📘 Project Overview
